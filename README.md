@@ -23,7 +23,7 @@ And build it:
 
 # Running
 
-The build process should produce an app bundle binary `build/Bundle.cpp`,
+The build process should produce an app bundle binary `build/Bundle.app`,
 which should be digitally signed with an adhoc codesigning key. The app
 bundle should be ready to be executed right away:
 
